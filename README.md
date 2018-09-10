@@ -5,4 +5,6 @@ We are quite competitive at the office I work at, so I "borrowed" the official C
 
 I modified the template application with my styles, and made some custom components that are re-used (the drop down boxes). I also use a shared state across the pages by injecting a singleton class that keeps track of the current drop down values so they can be filtered correctly.
 
+While this isn't an amazing architecture to use going forward, it was perfect to test out the features of Blazor and see how developing using it felt.
+
 Check out [https://blazor.net/](https://blazor.net/) for information on how to get started with Blazor.

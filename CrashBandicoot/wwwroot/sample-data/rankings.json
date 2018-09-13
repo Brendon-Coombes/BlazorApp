@@ -1,0 +1,3917 @@
+﻿[
+    {
+        "GameNumber": 1,
+        "GameName": "Crash Bandicoot",
+        "LevelNumber": 1,
+        "LevelName": "N. Sanity Beach",
+        "PlatinumTime": "00:00:25.7600000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:25.4200000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:00:25.5200000",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "3",
+                "Time": "00:00:26.4200000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "4",
+                "Time": "00:00:26.9200000",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            }
+        ]
+    },
+    {
+        "GameNumber": 1,
+        "GameName": "Crash Bandicoot",
+        "LevelNumber": 2,
+        "LevelName": "Jungle Rollers",
+        "PlatinumTime": "00:00:47",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:44.4300000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:00:47.2100000",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            }
+        ]
+    },
+    {
+        "GameNumber": 1,
+        "GameName": "Crash Bandicoot",
+        "LevelNumber": 3,
+        "LevelName": "The Great Gate",
+        "PlatinumTime": "00:00:48.0700000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:44.3700000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:00:46.9100000",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            }
+        ]
+    },
+    {
+        "GameNumber": 1,
+        "GameName": "Crash Bandicoot",
+        "LevelNumber": 4,
+        "LevelName": "Boulders",
+        "PlatinumTime": "00:00:47.4800000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:46.5400000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:00:48.1800000",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            }
+        ]
+    },
+    {
+        "GameNumber": 1,
+        "GameName": "Crash Bandicoot",
+        "LevelNumber": 5,
+        "LevelName": "Upstream",
+        "PlatinumTime": "00:00:46.5100000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:44.9500000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 1,
+        "GameName": "Crash Bandicoot",
+        "LevelNumber": 6,
+        "LevelName": "Rolling Stones",
+        "PlatinumTime": "00:00:46",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:43.9400000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 1,
+        "GameName": "Crash Bandicoot",
+        "LevelNumber": 7,
+        "LevelName": "Hog Wild",
+        "PlatinumTime": "00:00:43.4200000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:41.9000000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:00:42",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 1,
+        "GameName": "Crash Bandicoot",
+        "LevelNumber": 8,
+        "LevelName": "Native Fortress",
+        "PlatinumTime": "00:02:05.8000000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:02:10.2300000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 1,
+        "GameName": "Crash Bandicoot",
+        "LevelNumber": 9,
+        "LevelName": "Up The Creek",
+        "PlatinumTime": "00:01:16",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:01:17.1800000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 1,
+        "GameName": "Crash Bandicoot",
+        "LevelNumber": 10,
+        "LevelName": "The Lost City",
+        "PlatinumTime": "00:01:40.5200000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:01:47.9800000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 1,
+        "GameName": "Crash Bandicoot",
+        "LevelNumber": 11,
+        "LevelName": "Temple Ruins",
+        "PlatinumTime": "00:01:25.3400000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:01:29.3200000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 1,
+        "GameName": "Crash Bandicoot",
+        "LevelNumber": 12,
+        "LevelName": "Road To Nowhere",
+        "PlatinumTime": "00:00:57.8500000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:58.6600000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 1,
+        "GameName": "Crash Bandicoot",
+        "LevelNumber": 13,
+        "LevelName": "Boulder Dash",
+        "PlatinumTime": "00:01:18.0800000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:01:16.2100000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 1,
+        "GameName": "Crash Bandicoot",
+        "LevelNumber": 14,
+        "LevelName": "Whole Hog",
+        "PlatinumTime": "00:00:26.8700000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:25.9900000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 1,
+        "GameName": "Crash Bandicoot",
+        "LevelNumber": 15,
+        "LevelName": "Sunset Vista",
+        "PlatinumTime": "00:03:41.8500000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:04:09.7600000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 1,
+        "GameName": "Crash Bandicoot",
+        "LevelNumber": 16,
+        "LevelName": "Heavy Machinery",
+        "PlatinumTime": "00:01:36.2900000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:01:54.6500000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 1,
+        "GameName": "Crash Bandicoot",
+        "LevelNumber": 17,
+        "LevelName": "Cortex Power",
+        "PlatinumTime": "00:00:39.7000000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:40.6300000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 1,
+        "GameName": "Crash Bandicoot",
+        "LevelNumber": 18,
+        "LevelName": "Generator Room",
+        "PlatinumTime": "00:00:59.7200000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:01:06.6900000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 1,
+        "GameName": "Crash Bandicoot",
+        "LevelNumber": 19,
+        "LevelName": "Toxic Waste",
+        "PlatinumTime": "00:00:55.7500000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:57.2500000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 1,
+        "GameName": "Crash Bandicoot",
+        "LevelNumber": 20,
+        "LevelName": "The High Road",
+        "PlatinumTime": "00:01:04.6100000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:01:03.1600000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 1,
+        "GameName": "Crash Bandicoot",
+        "LevelNumber": 21,
+        "LevelName": "Slippery Climb",
+        "PlatinumTime": "00:02:26.0800000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:02:28.8800000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 1,
+        "GameName": "Crash Bandicoot",
+        "LevelNumber": 22,
+        "LevelName": "Lights Out",
+        "PlatinumTime": "00:01:06.8700000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:01:15.4300000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 1,
+        "GameName": "Crash Bandicoot",
+        "LevelNumber": 23,
+        "LevelName": "Fumbling In The Dark",
+        "PlatinumTime": "00:01:41.5900000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:01:33.7900000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 1,
+        "GameName": "Crash Bandicoot",
+        "LevelNumber": 24,
+        "LevelName": "Jaws Of Darkness",
+        "PlatinumTime": "00:01:36.2600000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:01:39.3500000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 1,
+        "GameName": "Crash Bandicoot",
+        "LevelNumber": 25,
+        "LevelName": "Castle Machinery",
+        "PlatinumTime": "00:02:09.8900000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:02:20",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 1,
+        "GameName": "Crash Bandicoot",
+        "LevelNumber": 26,
+        "LevelName": "The Lab",
+        "PlatinumTime": "00:00:44.9200000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:54.3500000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 1,
+        "GameName": "Crash Bandicoot",
+        "LevelNumber": 27,
+        "LevelName": "Stormy Ascent",
+        "PlatinumTime": "00:03:10",
+        "PlayerTimes": [
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 2,
+        "GameName": "Crash Bandicoot 2: Cortex Strikes Back",
+        "LevelNumber": 1,
+        "LevelName": "Turtle Woods",
+        "PlatinumTime": "00:00:45.4700000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:44.9800000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:00:47.6400000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "3",
+                "Time": "00:00:56.0900000",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 2,
+        "GameName": "Crash Bandicoot 2: Cortex Strikes Back",
+        "LevelNumber": 2,
+        "LevelName": "Snow Go",
+        "PlatinumTime": "00:00:43",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:41.6400000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:00:49.6300000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "3",
+                "Time": "00:00:57.6600000",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 2,
+        "GameName": "Crash Bandicoot 2: Cortex Strikes Back",
+        "LevelNumber": 3,
+        "LevelName": "Hang Eight",
+        "PlatinumTime": "00:00:56.2400000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:53.7200000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:00:54.1800000",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "3",
+                "Time": "00:00:58.6700000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 2,
+        "GameName": "Crash Bandicoot 2: Cortex Strikes Back",
+        "LevelNumber": 4,
+        "LevelName": "The Pits",
+        "PlatinumTime": "00:01:00.3400000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:59.5100000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:01:09.4800000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "3",
+                "Time": "00:01:19.5300000",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 2,
+        "GameName": "Crash Bandicoot 2: Cortex Strikes Back",
+        "LevelNumber": 5,
+        "LevelName": "Crash Dash",
+        "PlatinumTime": "00:00:59.6800000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:59.3900000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:01:02.9000000",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "3",
+                "Time": "00:01:05.5600000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 2,
+        "GameName": "Crash Bandicoot 2: Cortex Strikes Back",
+        "LevelNumber": 6,
+        "LevelName": "Snow Biz",
+        "PlatinumTime": "00:00:51.9700000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:50.3200000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:00:59.6700000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "3",
+                "Time": "00:01:01.2000000",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 2,
+        "GameName": "Crash Bandicoot 2: Cortex Strikes Back",
+        "LevelNumber": 7,
+        "LevelName": "Air Crash",
+        "PlatinumTime": "00:00:52.7500000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:51.6500000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:00:59.7300000",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "3",
+                "Time": "00:01:00.6400000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 2,
+        "GameName": "Crash Bandicoot 2: Cortex Strikes Back",
+        "LevelNumber": 8,
+        "LevelName": "Bear It",
+        "PlatinumTime": "00:00:44.8200000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:43.7100000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:00:47.0500000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 2,
+        "GameName": "Crash Bandicoot 2: Cortex Strikes Back",
+        "LevelNumber": 9,
+        "LevelName": "Crash Crush",
+        "PlatinumTime": "00:01:07.8700000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:01:05.9000000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:01:19.8300000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 2,
+        "GameName": "Crash Bandicoot 2: Cortex Strikes Back",
+        "LevelNumber": 10,
+        "LevelName": "The Eel Deal",
+        "PlatinumTime": "00:00:58.9000000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:58.4800000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:01:03.3100000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 2,
+        "GameName": "Crash Bandicoot 2: Cortex Strikes Back",
+        "LevelNumber": 11,
+        "LevelName": "Plant Food",
+        "PlatinumTime": "00:00:57.2800000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:55.2800000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:00:58.9700000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 2,
+        "GameName": "Crash Bandicoot 2: Cortex Strikes Back",
+        "LevelNumber": 12,
+        "LevelName": "Sewer Or Later",
+        "PlatinumTime": "00:00:34",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:37.8000000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:00:40.6200000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 2,
+        "GameName": "Crash Bandicoot 2: Cortex Strikes Back",
+        "LevelNumber": 13,
+        "LevelName": "Bear Down",
+        "PlatinumTime": "00:00:46.1400000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:47.7100000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:00:49.1500000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 2,
+        "GameName": "Crash Bandicoot 2: Cortex Strikes Back",
+        "LevelNumber": 14,
+        "LevelName": "Road To Ruin",
+        "PlatinumTime": "00:00:39.0400000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:38.7500000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:00:41.2000000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 2,
+        "GameName": "Crash Bandicoot 2: Cortex Strikes Back",
+        "LevelNumber": 15,
+        "LevelName": "Un-Bearable",
+        "PlatinumTime": "00:01:26.1000000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:01:24.1500000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:01:26.8100000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 2,
+        "GameName": "Crash Bandicoot 2: Cortex Strikes Back",
+        "LevelNumber": 16,
+        "LevelName": "Hangin' Out",
+        "PlatinumTime": "00:00:56",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:58.5100000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:01:02.6200000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 2,
+        "GameName": "Crash Bandicoot 2: Cortex Strikes Back",
+        "LevelNumber": 17,
+        "LevelName": "Diggin' It",
+        "PlatinumTime": "00:01:36.7700000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:01:19.9600000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:01:23.7500000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 2,
+        "GameName": "Crash Bandicoot 2: Cortex Strikes Back",
+        "LevelNumber": 18,
+        "LevelName": "Cold Hard Crash",
+        "PlatinumTime": "00:01:35.9900000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:01:42.2200000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:01:47.1500000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 2,
+        "GameName": "Crash Bandicoot 2: Cortex Strikes Back",
+        "LevelNumber": 19,
+        "LevelName": "Ruination",
+        "PlatinumTime": "00:01:04.3600000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:01:04.4600000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:01:15.1500000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 2,
+        "GameName": "Crash Bandicoot 2: Cortex Strikes Back",
+        "LevelNumber": 20,
+        "LevelName": "Bee-Having",
+        "PlatinumTime": "00:01:13.4200000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:01:11.4500000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:01:14.5800000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 2,
+        "GameName": "Crash Bandicoot 2: Cortex Strikes Back",
+        "LevelNumber": 21,
+        "LevelName": "Piston It Away",
+        "PlatinumTime": "00:01:16.0300000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:01:11.3700000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:01:15.6500000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 2,
+        "GameName": "Crash Bandicoot 2: Cortex Strikes Back",
+        "LevelNumber": 22,
+        "LevelName": "Rock It",
+        "PlatinumTime": "00:00:53.4400000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:47.2800000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:00:50.2100000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 2,
+        "GameName": "Crash Bandicoot 2: Cortex Strikes Back",
+        "LevelNumber": 23,
+        "LevelName": "Night Fight",
+        "PlatinumTime": "00:01:04.1900000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:01:02.6100000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:01:03.7300000",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "3",
+                "Time": "00:01:05.6600000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            }
+        ]
+    },
+    {
+        "GameNumber": 2,
+        "GameName": "Crash Bandicoot 2: Cortex Strikes Back",
+        "LevelNumber": 24,
+        "LevelName": "Pack Attack",
+        "PlatinumTime": "00:00:58.2500000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:57",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:01:02.2200000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 2,
+        "GameName": "Crash Bandicoot 2: Cortex Strikes Back",
+        "LevelNumber": 25,
+        "LevelName": "Spaced Out",
+        "PlatinumTime": "00:00:56.9500000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:55.8200000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:01:02.2400000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 2,
+        "GameName": "Crash Bandicoot 2: Cortex Strikes Back",
+        "LevelNumber": 26,
+        "LevelName": "Totally Bear",
+        "PlatinumTime": "00:00:41.6300000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:40.5700000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:00:47.2300000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 2,
+        "GameName": "Crash Bandicoot 2: Cortex Strikes Back",
+        "LevelNumber": 27,
+        "LevelName": "Totally Fly",
+        "PlatinumTime": "00:00:54.7500000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:55.0900000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:00:55.7800000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 3,
+        "GameName": "Crash Bandicoot 3: Warped",
+        "LevelNumber": 1,
+        "LevelName": "Toad Village",
+        "PlatinumTime": "00:00:44.0300000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:41.9200000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:00:42.4500000",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "3",
+                "Time": "00:00:43.6600000",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "4",
+                "Time": "00:00:43.8600000",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "5",
+                "Time": "00:00:44.7900000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            }
+        ]
+    },
+    {
+        "GameNumber": 3,
+        "GameName": "Crash Bandicoot 3: Warped",
+        "LevelNumber": 2,
+        "LevelName": "Under Pressure",
+        "PlatinumTime": "00:01:03.5000000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:59.4100000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:01:01.5600000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "3",
+                "Time": "00:01:13.6700000",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "4",
+                "Time": "00:01:14.1400000",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "5",
+                "Time": "00:01:25.2200000",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            }
+        ]
+    },
+    {
+        "GameNumber": 3,
+        "GameName": "Crash Bandicoot 3: Warped",
+        "LevelNumber": 3,
+        "LevelName": "Orient Express",
+        "PlatinumTime": "00:00:18.1000000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:11.5800000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:00:11.6200000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "3",
+                "Time": "00:00:12.6500000",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "4",
+                "Time": "00:00:16.4600000",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "5",
+                "Time": "00:00:26.5500000",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            }
+        ]
+    },
+    {
+        "GameNumber": 3,
+        "GameName": "Crash Bandicoot 3: Warped",
+        "LevelNumber": 4,
+        "LevelName": "Bone Yard",
+        "PlatinumTime": "00:01:21",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:01:21.4900000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:01:22.1800000",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "3",
+                "Time": "00:01:24.0700000",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "4",
+                "Time": "00:01:30.8400000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "5",
+                "Time": "00:01:39.1400000",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            }
+        ]
+    },
+    {
+        "GameNumber": 3,
+        "GameName": "Crash Bandicoot 3: Warped",
+        "LevelNumber": 5,
+        "LevelName": "Makin' Waves",
+        "PlatinumTime": "00:00:56.2300000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:56.5900000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:00:57.2300000",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "3",
+                "Time": "00:00:58.1700000",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "4",
+                "Time": "00:00:58.8000000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "5",
+                "Time": "00:01:00.8900000",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            }
+        ]
+    },
+    {
+        "GameNumber": 3,
+        "GameName": "Crash Bandicoot 3: Warped",
+        "LevelNumber": 6,
+        "LevelName": "Gee Wiz",
+        "PlatinumTime": "00:01:05.9000000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:01:03.4200000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:01:04.0900000",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "3",
+                "Time": "00:01:04.2900000",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "4",
+                "Time": "00:01:09.6800000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            }
+        ]
+    },
+    {
+        "GameNumber": 3,
+        "GameName": "Crash Bandicoot 3: Warped",
+        "LevelNumber": 7,
+        "LevelName": "Hang'em High",
+        "PlatinumTime": "00:00:43.8000000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:45.9800000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:00:47.7300000",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "3",
+                "Time": "00:00:50.1400000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "4",
+                "Time": "00:00:53.6800000",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            }
+        ]
+    },
+    {
+        "GameNumber": 3,
+        "GameName": "Crash Bandicoot 3: Warped",
+        "LevelNumber": 8,
+        "LevelName": "Hog Ride",
+        "PlatinumTime": "00:00:38",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:42.1000000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:00:42.4700000",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "3",
+                "Time": "00:00:43",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "4",
+                "Time": "00:00:43.6400000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            }
+        ]
+    },
+    {
+        "GameNumber": 3,
+        "GameName": "Crash Bandicoot 3: Warped",
+        "LevelNumber": 9,
+        "LevelName": "Tomb Time",
+        "PlatinumTime": "00:00:53.9000000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:55.0700000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:01:01.9300000",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "3",
+                "Time": "00:01:03.9100000",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "4",
+                "Time": "00:01:07.3800000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            }
+        ]
+    },
+    {
+        "GameNumber": 3,
+        "GameName": "Crash Bandicoot 3: Warped",
+        "LevelNumber": 10,
+        "LevelName": "Midnight Run",
+        "PlatinumTime": "00:00:18.2000000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:15.1000000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:00:16.8200000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 3,
+        "GameName": "Crash Bandicoot 3: Warped",
+        "LevelNumber": 11,
+        "LevelName": "Dino Might!",
+        "PlatinumTime": "00:01:03",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:01:03.7400000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:01:05.1800000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 3,
+        "GameName": "Crash Bandicoot 3: Warped",
+        "LevelNumber": 12,
+        "LevelName": "Deep Trouble",
+        "PlatinumTime": "00:01:08.3300000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:01:02.4800000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:01:04.1900000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 3,
+        "GameName": "Crash Bandicoot 3: Warped",
+        "LevelNumber": 13,
+        "LevelName": "High Time",
+        "PlatinumTime": "00:00:56.9300000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:58.0700000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:01:02.5600000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 3,
+        "GameName": "Crash Bandicoot 3: Warped",
+        "LevelNumber": 14,
+        "LevelName": "Road Crash",
+        "PlatinumTime": "00:01:23.1000000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:01:23.2800000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:01:25.3800000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 3,
+        "GameName": "Crash Bandicoot 3: Warped",
+        "LevelNumber": 15,
+        "LevelName": "Double Header",
+        "PlatinumTime": "00:00:59.4000000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:59.1300000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:01:00.1700000",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "3",
+                "Time": "00:01:07.3900000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 3,
+        "GameName": "Crash Bandicoot 3: Warped",
+        "LevelNumber": 16,
+        "LevelName": "Sphynxinator",
+        "PlatinumTime": "00:00:56.7000000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:01:03.7100000",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:01:09.3900000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "3",
+                "Time": "00:01:14.9800000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            }
+        ]
+    },
+    {
+        "GameNumber": 3,
+        "GameName": "Crash Bandicoot 3: Warped",
+        "LevelNumber": 17,
+        "LevelName": "Bye Bye Blimps",
+        "PlatinumTime": "00:00:31.5000000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:35.4600000",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:00:36.7600000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "3",
+                "Time": "00:00:38",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            }
+        ]
+    },
+    {
+        "GameNumber": 3,
+        "GameName": "Crash Bandicoot 3: Warped",
+        "LevelNumber": 18,
+        "LevelName": "Tell No Tales",
+        "PlatinumTime": "00:01:15.2300000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:01:23.1100000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:01:30.2900000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 3,
+        "GameName": "Crash Bandicoot 3: Warped",
+        "LevelNumber": 19,
+        "LevelName": "Future Frenzy",
+        "PlatinumTime": "00:01:19.6200000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:01:20.6200000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:01:33.4000000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 3,
+        "GameName": "Crash Bandicoot 3: Warped",
+        "LevelNumber": 20,
+        "LevelName": "Tomb Wader",
+        "PlatinumTime": "00:01:24",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:01:24.5100000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:01:27.4100000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "3",
+                "Time": "00:01:37.6900000",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            }
+        ]
+    },
+    {
+        "GameNumber": 3,
+        "GameName": "Crash Bandicoot 3: Warped",
+        "LevelNumber": 21,
+        "LevelName": "Gone Tomorrow",
+        "PlatinumTime": "00:01:02.1000000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:01:10",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:01:13.2000000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "3",
+                "Time": "00:01:22.6100000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            }
+        ]
+    },
+    {
+        "GameNumber": 3,
+        "GameName": "Crash Bandicoot 3: Warped",
+        "LevelNumber": 22,
+        "LevelName": "Orange Asphalt",
+        "PlatinumTime": "00:01:23.8000000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:01:27.5900000",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:01:28.5500000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "3",
+                "Time": "00:01:30.7400000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            }
+        ]
+    },
+    {
+        "GameNumber": 3,
+        "GameName": "Crash Bandicoot 3: Warped",
+        "LevelNumber": 23,
+        "LevelName": "Flaming Passion",
+        "PlatinumTime": "00:00:59.4000000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:56.3000000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:00:59.4900000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "3",
+                "Time": "00:01:06.8800000",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            }
+        ]
+    },
+    {
+        "GameNumber": 3,
+        "GameName": "Crash Bandicoot 3: Warped",
+        "LevelNumber": 24,
+        "LevelName": "Mad Bombers",
+        "PlatinumTime": "00:00:58.1300000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:01:05.3000000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:01:15.1700000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "3",
+                "Time": "00:01:20.8100000",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            }
+        ]
+    },
+    {
+        "GameNumber": 3,
+        "GameName": "Crash Bandicoot 3: Warped",
+        "LevelNumber": 25,
+        "LevelName": "Bug Lite",
+        "PlatinumTime": "00:01:14.9000000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:01:17.4000000",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:01:19.7900000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "3",
+                "Time": "00:01:23",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            }
+        ]
+    },
+    {
+        "GameNumber": 3,
+        "GameName": "Crash Bandicoot 3: Warped",
+        "LevelNumber": 26,
+        "LevelName": "Ski Crazed",
+        "PlatinumTime": "00:00:36.3000000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:41.1500000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:00:48.6700000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 3,
+        "GameName": "Crash Bandicoot 3: Warped",
+        "LevelNumber": 27,
+        "LevelName": "Area 51?",
+        "PlatinumTime": "00:01:52.5000000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:01:54.5800000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:01:54.7800000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 3,
+        "GameName": "Crash Bandicoot 3: Warped",
+        "LevelNumber": 28,
+        "LevelName": "Rings of Power",
+        "PlatinumTime": "00:01:01.7300000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:01:04.9900000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:01:05.9600000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 3,
+        "GameName": "Crash Bandicoot 3: Warped",
+        "LevelNumber": 29,
+        "LevelName": "Hot Coco",
+        "PlatinumTime": "00:00:19.9600000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:01.7100000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:00:28.5200000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 3,
+        "GameName": "Crash Bandicoot 3: Warped",
+        "LevelNumber": 30,
+        "LevelName": "Eggipus Rex",
+        "PlatinumTime": "00:00:47.7400000",
+        "PlayerTimes": [
+            {
+                "Rank": "1",
+                "Time": "00:00:45.9700000",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "2",
+                "Time": "00:00:46.9300000",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 3,
+        "GameName": "Crash Bandicoot 3: Warped",
+        "LevelNumber": 31,
+        "LevelName": "Future Tense",
+        "PlatinumTime": "00:00:52.1700000",
+        "PlayerTimes": [
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 3,
+        "GameName": "Crash Bandicoot 3: Warped",
+        "LevelNumber": 32,
+        "LevelName": "",
+        "PlatinumTime": "00:05:00",
+        "PlayerTimes": [
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    },
+    {
+        "GameNumber": 3,
+        "GameName": "Crash Bandicoot 3: Warped",
+        "LevelNumber": 33,
+        "LevelName": "",
+        "PlatinumTime": "00:05:00",
+        "PlayerTimes": [
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Brendon",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 4",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 3",
+                "Platform": "xbl"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 5",
+                "Platform": "switch"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 1",
+                "Platform": "psn"
+            },
+            {
+                "Rank": "-",
+                "Time": "00:05:00",
+                "Name": "Workmate 2",
+                "Platform": "xbl"
+            }
+        ]
+    }
+]

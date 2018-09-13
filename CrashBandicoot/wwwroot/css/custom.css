@@ -1,0 +1,18 @@
+﻿.centered-content {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.loading {
+    width: 85%;
+    font-family: "CCGeekSpeak", Helvetica, sans-serif;
+    color: #e24308;
+    font-size: 72px;
+    line-height: 25px;
+    text-transform: uppercase;
+    text-shadow: 3px 3px 0 #000000, -1px -1px 0 #000000, 1px -1px 0 #000000, -1px 1px 0 #000000, 1px 1px 0 #000000;
+    text-align: center;
+}

@@ -1,0 +1,62 @@
+﻿@inject CrashBandicoot.Services.AppState state
+
+<div class="selectricWrapper selectric-crash-lb-select selectric-crash-light-select @DropdownClass" onclick=@DropClick>
+    <div class="selectric">
+        <p class="label">@SelectedValue.Value</p><b class="button">▾</b>
+    </div>
+    <div class="selectricItems" tabindex="-1">
+        <div class="selectricScroll">
+            <ul>
+                @foreach (var item in DropdownValues)
+                {
+                    <li onclick=@(() => ListItemClicked(item.Key)) class=@ListItemSelectedClass(item)>@item.Value</li>
+                }
+            </ul>
+        </div>
+    </div>
+    <input class="selectricInput" tabindex="0">
+</div>
+
+@functions {
+    [Parameter]
+    IReadOnlyList<SelectListItem> DropdownValues { get; set; }
+
+    [Parameter]
+    Action<SelectListItem> OnDropdownChanged { get; set; }
+
+    [Parameter]
+    SelectListItem SelectedValue { get; set; }
+
+    string DropdownClass { get { return IsDropdownOpen ? "selectricOpen" : ""; } }
+
+    bool IsDropdownOpen { get; set; } = false;
+
+
+    protected override void OnInit()
+    {
+        SelectedValue = DropdownValues.First();
+        ListItemSelectedClass(SelectedValue);
+    }
+
+    void Reload()
+    {
+        SelectedValue = DropdownValues.First();
+        ListItemSelectedClass(SelectedValue);
+    }
+
+    void ListItemClicked(string value)
+    {
+        SelectedValue = DropdownValues.First(x => x.Key == value);
+        OnDropdownChanged(SelectedValue);
+    }
+
+    string ListItemSelectedClass(SelectListItem item)
+    {
+        return SelectedValue.Key == item.Key ? "selected" : "";
+    }
+
+    void DropClick()
+    {
+        IsDropdownOpen = !IsDropdownOpen;
+    }
+}

@@ -1,0 +1,34 @@
+﻿@page "/"
+@inject HttpClient Http
+@inject CrashBandicoot.Services.AppState state
+
+<CrashHeader></CrashHeader>
+
+<div class="page-content-container">
+    <div class="page-content parsys">
+        <div class="atvi-component atvi-content-tile ignore-id template  ">
+            <div class="atvi-component atvi-content-tile ignore-id template  ">
+                <section class="crash-section crash-leaderboards">
+                    <div class="crash-leaderboard-container">
+                        <h1 class="crash-leaderboard-title" style="background-image: url('img/crash-leaderboard-title.png')">Leaderboard</h1>
+                        <div class="crash-lb-options">
+                            <CrashDropDown DropdownValues=state.Platforms OnDropdownChanged=state.ChangePlatform SelectedValue=state.SelectedPlatform></CrashDropDown>
+                            <CrashDropDown DropdownValues=state.Games OnDropdownChanged=state.ChangeGame SelectedValue=state.SelectedGame></CrashDropDown>
+                            <CrashDropDown DropdownValues=state.Levels OnDropdownChanged=state.ChangeLevel SelectedValue=state.SelectedLevel></CrashDropDown>
+                        </div>
+                        <Leaderboard></Leaderboard>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+</div>
+
+@functions
+{
+    protected override void OnInit()
+    {
+        state.OnChange += StateHasChanged;
+    }
+}
+

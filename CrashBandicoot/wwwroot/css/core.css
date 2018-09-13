@@ -1,0 +1,77 @@
+@font-face {
+    font-family: "CCGeekSpeak";
+    src: url("../font/CCGeekSpeak-Regular.eot");
+    src: url("../font/CCGeekSpeak-Regular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../font/CCGeekSpeak-Regular.woff") format("woff"), /* chromeã€firefox */
+    url("../font/CCGeekSpeak.svg#CCGeekSpeak W00 Regular") format("svg");
+    /* IE9*/
+    /* iOS 4.1- */
+}
+
+@font-face {
+    font-family: "CCZoinks";
+    src: url("../font/CCZoinks.eot");
+    src: url("../font/CCZoinks.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../font/CCZoinks.woff") format("woff"), /* chromeã€firefox */
+    url("../font/CCZoinks.svg#CCGeekSpeak W00 Regular") format("svg");
+    /* IE9*/
+    /* iOS 4.1- */
+}
+
+.crash-header {
+    left: 50%;
+    max-width: 1200px;
+    position: absolute;
+    top: 0;
+    -webkit-transform: translate(-50%, 0);
+    -moz-transform: translate(-50%, 0);
+    -ms-transform: translate(-50%, 0);
+    -o-transform: translate(-50%, 0);
+    transform: translate(-50%, 0);
+    width: 100%;
+    z-index: 10;
+}
+
+.crash-header .crash-logo {
+    background-image: url("../img/crash-logo.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 220px;
+    left: 50%;
+    top: 10px;
+    overflow: hidden;
+    position: absolute;
+    text-indent: -100%;
+    -webkit-transform: translate(-50%, 0);
+    -moz-transform: translate(-50%, 0);
+    -ms-transform: translate(-50%, 0);
+    -o-transform: translate(-50%, 0);
+    transform: translate(-50%, 0);
+    max-width: 588px;
+    width: 80%;
+}
+
+html {
+    overflow-x: hidden;
+}
+
+@media all and (-ms-high-contrast: none),
+(-ms-high-contrast: active) {
+    html {
+        overflow-x: visible;
+    }
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.crash-section {
+    height: 60vw;
+    position: relative;
+    max-height: 800px;
+    background-size: cover;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+}

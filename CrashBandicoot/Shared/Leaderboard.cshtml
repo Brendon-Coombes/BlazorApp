@@ -1,0 +1,54 @@
+﻿@inject HttpClient Http
+@inject CrashBandicoot.Services.AppState state
+@using CrashBandicoot.Models
+
+<div class="crash-lb">
+    <ul class="crash-lb-row-header">
+        <li class="rank-header">Rank</li>
+        <li class="name-header">Name</li>
+        <li class="time-header">Time</li>
+    </ul>
+    <ul class="crash-lb-rows">
+        @if (playerTimes == null || !playerTimes.Any())
+        {
+            <li class="crash-lb-entry">
+                <span class="rank"></span>
+                <span class="name" title="Loading">Loading...</span>
+                <span class="time"></span>
+            </li>
+        }
+        else
+        {
+            @foreach (var time in playerTimes)
+            {
+                
+                <li class="crash-lb-entry">
+                    <span class="rank">@time.Rank</span>
+                    <span class="name" title="@time.Name">@time.Name</span>
+                    <span class="time">@time.Time.ToString(@"mm\:ss\.ff")</span>
+                </li>
+                
+            }
+        }
+    </ul>
+    <ul class="crash-lb-pages"></ul>
+</div>
+
+@functions {
+    IList<PlayerTime> playerTimes;
+
+    private List<LevelRanking> _allRankings = new List<LevelRanking>();
+
+    protected override async Task OnInitAsync()
+    {
+        _allRankings = await Http.GetJsonAsync<List<LevelRanking>>("sample-data/rankings.json");
+        state.OnChange += UpdateRankings;
+        state.OnChange += StateHasChanged;
+        UpdateRankings();
+    }
+
+    void UpdateRankings()
+    {
+        playerTimes = _allRankings.FirstOrDefault(x => x.GameNumber == int.Parse(state.SelectedGame.Key) && x.LevelNumber == int.Parse(state.SelectedLevel.Key))?.PlayerTimes.ToList() ?? new List<PlayerTime>();
+    }
+}

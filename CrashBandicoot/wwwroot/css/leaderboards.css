@@ -1,0 +1,672 @@
+.selectricWrapper {
+    position: relative;
+    margin: .25rem 0 0;
+    min-width: 220px;
+    cursor: pointer;
+    border-radius: 2px;
+}
+
+.selectricResponsive {
+    width: 100%;
+}
+
+.selectric {
+    background-color: #000;
+    position: relative;
+    color: #ffffff;
+}
+
+.selectric .label {
+    font-size: 1rem;
+    text-transform: uppercase;
+    text-align: left;
+    color: #ffffff;
+    font-family: "CCGeekSpeak", Helvetica, sans-serif;
+    display: block;
+    white-space: nowrap;
+    overflow: hidden;
+    padding: 0 20px 0 0;
+    line-height: 20px;
+}
+
+@media screen and (max-width: 640px) {
+    .selectric .label {
+        text-rendering: optimizeSpeed;
+    }
+}
+
+@media screen and (min-width: 641px) {
+    .selectric .label {
+        text-rendering: optimizeLegibility;
+    }
+}
+
+.selectric .button {
+    padding: 0;
+    position: absolute;
+    right: 10px;
+    top: 0;
+    width: 20px;
+    height: 20px;
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    display: block;
+}
+
+.selectric .button:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    display: block;
+    width: 100%;
+    height: 100%;
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-image: url('../font/select-box-arrow.svg');
+}
+
+.selectric-empty .button {
+    display: none;
+}
+
+.selectricOpen {
+    z-index: 9999;
+}
+
+.selectricOpen .selectric {
+    z-index: 9999;
+}
+
+.selectricOpen .selectricItems {
+    display: block;
+}
+
+.selectricOpen .label {
+    color: #febe23;
+}
+
+.selectricDisabled {
+    opacity: 0.5;
+    cursor: default;
+    -webkit-touch-callout: none;
+    user-select: none;
+}
+
+.selectricHideSelect {
+    position: relative;
+    overflow: hidden;
+    width: 0;
+    height: 0;
+}
+
+.selectricHideSelect select {
+    position: absolute;
+    left: -100%;
+    display: none;
+}
+
+.selectricInput {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    overflow: hidden !important;
+    clip: rect(0, 0, 0, 0) !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 1px !important;
+    height: 1px !important;
+    outline: none !important;
+    border: none !important;
+    *font: NaN a !important;
+    background: none !important;
+}
+
+/* Items box */
+
+.selectricItems {
+    display: none;
+    position: absolute;
+    overflow-y: auto;
+    overflow-x: hidden;
+    top: 100%;
+    left: 0;
+    background: #000;
+    z-index: 9998;
+}
+
+.selectricItems .selectricScroll {
+    height: 100%;
+    overflow: auto;
+}
+
+.selectricAbove .selectricItems {
+    top: auto;
+    bottom: 100%;
+}
+
+.selectricItems ul,
+.selectricItems li {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    line-height: 16px;
+    min-height: 16px;
+}
+
+.selectricItems li {
+    font-size: 1rem;
+    text-transform: uppercase;
+    text-align: left;
+    color: #ffffff;
+    font-family: "CCGeekSpeak", Helvetica, sans-serif;
+    -webkit-transition: background-color 0.3s;
+    -moz-transition: background-color 0.3s;
+    -ms-transition: background-color 0.3s;
+    -o-transition: background-color 0.3s;
+    transition: background-color 0.3s;
+    position: relative;
+    display: block;
+    padding: 5px 0 6px;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 640px) {
+    .selectricItems li {
+        text-rendering: optimizeSpeed;
+    }
+}
+
+@media screen and (min-width: 641px) {
+    .selectricItems li {
+        text-rendering: optimizeLegibility;
+    }
+}
+
+.selectricItems li:hover {
+    background-color: transparent;
+}
+
+.selectricItems li.selected {
+    background-color: transparent;
+}
+
+.selectricItems li.disabled {
+    background-color: #F5F5F5;
+    color: #BBB;
+    border-top-color: #FAFAFA;
+    cursor: default;
+}
+
+.selectricWrapper .beta {
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    display: block;
+    padding: 0;
+    position: absolute;
+    right: 6px;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+}
+
+.selectricWrapper .label .beta {
+    display: none;
+}
+
+.selectricScroll::-webkit-scrollbar {
+    width: 8px;
+}
+
+.selectricScroll::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+}
+
+.selectricScroll::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+    background: #ff7319;
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
+}
+
+.selectricScroll::-webkit-scrollbar-thumb:window-inactive {
+    background: rgba(51, 51, 51, 0.4);
+}
+
+.crash-leaderboards {
+    z-index: 9;
+    height: auto;
+    max-height: none;
+    margin-bottom: 36px;
+    min-height: 404px;
+    background-image: url("../img/crash-bg.jpg");
+}
+
+.crash-leaderboards:after {
+    content: "";
+    height: 36px;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    bottom: -36px;
+    background-image: url("../img/pattern-divider.jpg");
+    background-size: auto 100%;
+    box-shadow: 0 5px 10px 5px #000;
+}
+
+@media only screen and (max-width: 988px) {
+    .crash-leaderboards {
+        margin-bottom: 26px;
+    }
+    .crash-leaderboards:after {
+        height: 26px;
+        bottom: -26px;
+    }
+}
+
+@media only screen and (max-width: 650px) {
+    .crash-leaderboards {
+        background-size: cover;
+        background-position: center top;
+    }
+}
+
+.crash-leaderboards .crash-leaderboard-container {
+    position: relative;
+    width: 100%;
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 260px 10px 50px 10px;
+}
+
+@media only screen and (max-width: 500px) {
+    .crash-leaderboards .crash-leaderboard-container {
+        padding-top: 55vw;
+    }
+}
+
+.crash-leaderboards .crash-leaderboard-container .crash-leaderboard-title {
+    text-indent: -200%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+    overflow: hidden;
+    color: transparent;
+    font-size: 12px;
+    height: 97px;
+    margin: 0 20px 40px;
+}
+
+@media only screen and (max-width: 600px) {
+    .crash-leaderboards .crash-leaderboard-container .crash-leaderboard-title {
+        height: 20vw;
+        margin-bottom: 5vw;
+    }
+}
+
+.crash-leaderboards .crash-leaderboard-container .crash-lb-options {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.crash-leaderboards .crash-leaderboard-container .crash-lb-options .selectricOpen .selectricItems {
+    display: block;
+    top: inherit;
+    left: inherit;
+}
+
+.crash-leaderboards .crash-leaderboard-container .crash-lb-options .selectricOpen .button {
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+
+.crash-leaderboards .crash-leaderboard-container .crash-lb-options .selectricOpen.selectricAbove .selectricItems {
+    height: 170px !important;
+    bottom: inherit;
+}
+
+.crash-leaderboards .crash-leaderboard-container .crash-lb-options .selectricWrapper {
+    width: 75%;
+    max-width: 300px;
+    margin: 0 10px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.crash-leaderboards .crash-leaderboard-container .crash-lb-options .selectricWrapper.selectric-crash-light-select .selectric {
+    background-image: url("../img/crash-leaderboard-plank.png");
+}
+
+.crash-leaderboards .crash-leaderboard-container .crash-lb-options .selectric {
+    background-color: transparent;
+    background-image: url("../img/crash-leaderboard-plank-dark.png");
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100px;
+    position: relative;
+    cursor: pointer;
+}
+
+.crash-leaderboards .crash-leaderboard-container .crash-lb-options .selectric .label {
+    width: 85%;
+    font-family: "CCGeekSpeak", Helvetica, sans-serif;
+    color: #ffffff;
+    font-size: 22px;
+    line-height: 25px;
+    text-transform: uppercase;
+    text-shadow: 3px 3px 0 #000000, -1px -1px 0 #000000, 1px -1px 0 #000000, -1px 1px 0 #000000, 1px 1px 0 #000000;
+    text-align: center;
+    white-space: normal;
+    margin-left: 10px;
+    position: absolute;
+    top: 50%;
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0, -50%);
+    -ms-transform: translate(0, -50%);
+    -o-transform: translate(0, -50%);
+    transform: translate(0, -50%);
+}
+
+@media only screen and (max-width: 425px) {
+    .crash-leaderboards .crash-leaderboard-container .crash-lb-options .selectric .label {
+        font-size: 18px;
+        line-height: 21px;
+    }
+}
+
+.crash-leaderboards .crash-leaderboard-container .crash-lb-options .selectric .button {
+    position: absolute;
+    right: 30px;
+    height: 10px;
+    width: 15px;
+    top: 45px;
+    text-indent: -150%;
+    overflow: hidden;
+}
+
+.crash-leaderboards .crash-leaderboard-container .crash-lb-options .selectric .button:before,
+.crash-leaderboards .crash-leaderboard-container .crash-lb-options .selectric .button:after {
+    height: 11px;
+    width: 3px;
+    content: "";
+    position: absolute;
+    background-color: #ffffff;
+    top: 0;
+}
+
+.crash-leaderboards .crash-leaderboard-container .crash-lb-options .selectric .button:before {
+    left: 3px;
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+
+.crash-leaderboards .crash-leaderboard-container .crash-lb-options .selectric .button:after {
+    left: 9px;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+.crash-leaderboards .crash-leaderboard-container .crash-lb-options .selectricItems {
+    background-color: transparent;
+    background-image: url("../img/wood-bg.jpg");
+    background-size: 100% auto;
+    border: 2px solid #aa6c13;
+}
+
+.crash-leaderboards .crash-leaderboard-container .crash-lb-options .selectricItems li {
+    height: auto;
+    position: relative;
+    margin: 20px;
+    font-family: "CCGeekSpeak", Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 25px;
+    text-transform: uppercase;
+    color: #ffffff;
+    text-shadow: 3px 3px 0 #000000, -1px -1px 0 #000000, 1px -1px 0 #000000, -1px 1px 0 #000000, 1px 1px 0 #000000;
+    text-align: center;
+    cursor: pointer;
+}
+
+.crash-leaderboards .crash-leaderboard-container .crash-lb-options .selectricItems li.selected {
+    color: #ff7319;
+}
+
+@media only screen and (max-width: 425px) {
+    .crash-leaderboards .crash-leaderboard-container .crash-lb-options .selectricItems li {
+        font-size: 16px;
+        line-height: 19px;
+        margin: 20px 45px;
+    }
+}
+
+.crash-leaderboards .crash-leaderboard-container .crash-lb {
+    position: relative;
+    background-image: url("../img/crash-leaderboards-blank-bg.png");
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    width: 100%;
+    max-width: 1280px;
+    height: 1985px;
+}
+
+@media only screen and (max-width: 1280px) {
+    .crash-leaderboards .crash-leaderboard-container .crash-lb {
+        height: 152vw;
+    }
+}
+
+@media only screen and (max-width: 750px) {
+    .crash-leaderboards .crash-leaderboard-container .crash-lb {
+        background-image: url("../img/crash-leaderboards-mobile-blank-bg.png");
+        height: 202vw;
+    }
+}
+
+.crash-leaderboards .crash-leaderboard-container .crash-lb .crash-lb-row-header {
+    width: 100%;
+    padding: 4% 7% 0;
+}
+
+@media only screen and (max-width: 750px) {
+    .crash-leaderboards .crash-leaderboard-container .crash-lb .crash-lb-row-header {
+        padding-top: 4%;
+    }
+}
+
+.crash-leaderboards .crash-leaderboard-container .crash-lb .crash-lb-row-header li {
+    font-family: "CCGeekSpeak", Helvetica, sans-serif;
+    color: #5e270b;
+    font-size: 55px;
+    letter-spacing: 3.5px;
+    text-transform: uppercase;
+    text-shadow: 3px 3px 0 #000000, -1px -1px 0 #000000, 1px -1px 0 #000000, -1px 1px 0 #000000, 1px 1px 0 #000000;
+    display: inline-block;
+    text-align: center;
+}
+
+@media only screen and (max-width: 1300px) {
+    .crash-leaderboards .crash-leaderboard-container .crash-lb .crash-lb-row-header li {
+        font-size: 4.3vw;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .crash-leaderboards .crash-leaderboard-container .crash-lb .crash-lb-row-header li {
+        text-shadow: 1px 0px 0 #000, 1px 1px 0 #000;
+    }
+}
+
+.crash-leaderboards .crash-leaderboard-container .crash-lb .crash-lb-row-header li.rank-header {
+    width: 15%;
+    margin-right: 9%;
+}
+
+.crash-leaderboards .crash-leaderboard-container .crash-lb .crash-lb-row-header li.name-header {
+    width: 35%;
+    margin-right: 15%;
+}
+
+.crash-leaderboards .crash-leaderboard-container .crash-lb .crash-lb-row-header li.time-header {
+    width: auto;
+}
+
+.crash-leaderboards .crash-leaderboard-container .crash-lb .crash-lb-rows {
+    width: 100%;
+    padding: 8% 8% 0;
+}
+
+@media only screen and (max-width: 750px) {
+    .crash-leaderboards .crash-leaderboard-container .crash-lb .crash-lb-rows {
+        padding-top: 9%;
+    }
+}
+
+.crash-leaderboards .crash-leaderboard-container .crash-lb .crash-lb-rows .crash-lb-entry {
+    font-family: "CCGeekSpeak", Helvetica, sans-serif;
+    color: #f3e4c3;
+    font-size: 38px;
+    text-transform: uppercase;
+    text-shadow: 3px 3px 0 #000000, -1px -1px 0 #000000, 1px -1px 0 #000000, -1px 1px 0 #000000, 1px 1px 0 #000000;
+    margin-bottom: 35px;
+}
+
+@media only screen and (max-width: 1300px) {
+    .crash-leaderboards .crash-leaderboard-container .crash-lb .crash-lb-rows .crash-lb-entry {
+        font-size: 2.9vw;
+        margin-bottom: 2.7vw;
+    }
+}
+
+@media only screen and (max-width: 750px) {
+    .crash-leaderboards .crash-leaderboard-container .crash-lb .crash-lb-rows .crash-lb-entry {
+        font-size: 3.0vw;
+        margin-bottom: 4.7vw;
+    }
+}
+
+.crash-leaderboards .crash-leaderboard-container .crash-lb .crash-lb-rows .crash-lb-entry .rank {
+    display: inline-block;
+    width: 14%;
+    color: #f79f1c;
+    margin-right: 11%;
+    text-align: center;
+}
+
+.crash-leaderboards .crash-leaderboard-container .crash-lb .crash-lb-rows .crash-lb-entry .name {
+    display: inline-block;
+    width: 35%;
+    margin-right: 16%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 32px;
+}
+
+@media only screen and (max-width: 1300px) {
+    .crash-leaderboards .crash-leaderboard-container .crash-lb .crash-lb-rows .crash-lb-entry .name {
+        line-height: 2.4vw;
+    }
+}
+
+@media only screen and (max-width: 750px) {
+    .crash-leaderboards .crash-leaderboard-container .crash-lb .crash-lb-rows .crash-lb-entry .name {
+        line-height: 2.6vw;
+    }
+}
+
+.crash-leaderboards .crash-leaderboard-container .crash-lb .crash-lb-rows .crash-lb-entry .time {
+    display: inline-block;
+    width: auto;
+    text-transform: lowercase;
+}
+
+.crash-leaderboards .crash-leaderboard-container .crash-lb .crash-lb-pages {
+    position: absolute;
+    bottom: 10.5%;
+    width: 100%;
+    padding: 0% 8% 0%;
+    text-align: center;
+}
+
+@media only screen and (max-width: 750px) {
+    .crash-leaderboards .crash-leaderboard-container .crash-lb .crash-lb-pages {
+        bottom: 10%;
+    }
+}
+
+.crash-leaderboards .crash-leaderboard-container .crash-lb .crash-lb-pages li {
+    display: inline-block;
+    font-family: "CCGeekSpeak", Helvetica, sans-serif;
+    color: #ffffff;
+    font-size: 30px;
+    text-transform: uppercase;
+    text-shadow: 3px 3px 0 #000000, -1px -1px 0 #000000, 1px -1px 0 #000000, -1px 1px 0 #000000, 1px 1px 0 #000000;
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 1300px) {
+    .crash-leaderboards .crash-leaderboard-container .crash-lb .crash-lb-pages li {
+        font-size: 2.4vw;
+    }
+}
+
+@media only screen and (max-width: 750px) {
+    .crash-leaderboards .crash-leaderboard-container .crash-lb .crash-lb-pages li {
+        font-size: 2.5vw;
+    }
+}
+
+.crash-leaderboards .crash-leaderboard-container .crash-lb .crash-lb-pages li.crash-lb-page {
+    width: 7.5%;
+}
+
+.crash-leaderboards .crash-leaderboard-container .crash-lb .crash-lb-pages li.wide {
+    width: 15%;
+}
+
+.crash-leaderboards .crash-leaderboard-container .crash-lb .crash-lb-pages li.active {
+    color: #f79f1c;
+}
+
+.crash-leaderboards .crash-leaderboard-container .crash-lb .crash-lb-pages li.prev {
+    margin-right: 3%;
+}
+
+@media only screen and (max-width: 750px) {
+    .crash-leaderboards .crash-leaderboard-container .crash-lb .crash-lb-pages li.prev {
+        margin-right: 3%;
+    }
+}
+
+.crash-leaderboards .crash-leaderboard-container .crash-lb .crash-lb-pages li.next {
+    margin-left: 3%;
+}
+
+@media only screen and (max-width: 750px) {
+    .crash-leaderboards .crash-leaderboard-container .crash-lb .crash-lb-pages li.next {
+        margin-left: 3%;
+    }
+}
+
+.crash-leaderboards .crash-leaderboard-container .crash-lb .crash-lb-pages li.first {
+    margin-right: 3%;
+}
+
+.crash-leaderboards .crash-leaderboard-container .crash-lb .crash-lb-pages li.last {
+    margin-left: 3%;
+}

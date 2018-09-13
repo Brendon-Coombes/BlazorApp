@@ -50,5 +50,10 @@
     void UpdateRankings()
     {
         playerTimes = _allRankings.FirstOrDefault(x => x.GameNumber == int.Parse(state.SelectedGame.Key) && x.LevelNumber == int.Parse(state.SelectedLevel.Key))?.PlayerTimes.ToList() ?? new List<PlayerTime>();
+
+        if (state.SelectedPlatform.Key != "all")
+        {
+            playerTimes = playerTimes.Where(x => x.Platform == state.SelectedPlatform.Key).ToList();
+        }
     }
 }

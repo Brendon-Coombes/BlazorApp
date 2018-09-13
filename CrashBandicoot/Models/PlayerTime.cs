@@ -10,5 +10,6 @@ namespace CrashBandicoot.Models
         public string Rank { get; set; }
         public TimeSpan Time { get; set; }
         public string Name { get; set; }
+        public string Platform { get; set; }
     }
 }

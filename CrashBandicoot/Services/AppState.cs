@@ -72,7 +72,6 @@ namespace CrashBandicoot.Services
             _platforms.Add(new SelectListItem("psn", "Playstation 4"));
             _platforms.Add(new SelectListItem("xbl", "XBox One"));
             _platforms.Add(new SelectListItem("switch", "Ninendo Switch"));
-            _platforms.Add(new SelectListItem("test", "Test"));
             SelectedPlatform = _platforms.First();
         }
 
